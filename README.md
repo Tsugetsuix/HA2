@@ -1,4 +1,4 @@
-# ha2 - setup
+# HA2 - setup
 
 ---
 
